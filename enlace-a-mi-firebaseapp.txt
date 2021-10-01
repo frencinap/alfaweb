@@ -1,0 +1,6 @@
+user: ejemplo@desafio.cl
+password: 123456
+
+Use el mismo proyecto de la prueba de ejemplo ottoklaus
+https://pruebaottoklaus-eb4b0.web.app/
+
