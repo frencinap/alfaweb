@@ -48,7 +48,7 @@ export default {
         )
         .then(
           () => {
-            this.$router.push("Administracion");
+            this.$router.push("Cursos");
             this.loading = false;
           },
           (reject) => {

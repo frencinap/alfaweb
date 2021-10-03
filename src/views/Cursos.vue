@@ -20,6 +20,7 @@
             max-width="400px"
             :src="curso.data.imagen"
             class="white"
+            contain
           >
           </v-img>
           <!-- Datos relativos al curso -->
